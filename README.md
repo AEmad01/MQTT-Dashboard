@@ -10,3 +10,5 @@ php artisan migrate
 php artisan key:generate
 
 php artisan backpack:install
+
+php artisan serve
