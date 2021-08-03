@@ -12,3 +12,5 @@ php artisan key:generate
 php artisan backpack:install
 
 php artisan serve
+
+visit /admin
